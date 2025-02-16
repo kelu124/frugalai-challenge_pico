@@ -24,12 +24,15 @@ Some under the hood peek:
 
 A rp2040 microcontroler, with a PDM mic, and and OLED screen.
 
+![](notebooks/imgs/what.jpeg)
+
+## Check of consumptions
+
 Consumption for realtime consumption
 * without inference: 3.060 mWh/min --> 186mW
 * with inference: 3.107 mWh/min --> 186.5mW 
-
-
-![](notebooks/imgs/what.jpeg)
+* 
+![](docs/images/20250216_164100.jpg)
 
 ### Intended Use
 
